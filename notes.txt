@@ -1,0 +1,4 @@
+we can  define components like
+<compoent> <compoent/>
+OR
+<compoent/>
